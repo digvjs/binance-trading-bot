@@ -23,3 +23,6 @@ This script triggers the automated trades between `BTC/USDT` pair for given spre
   ```
   npm start
   ```
+
+***Attention***:
+Please run this bot with caution. If you attach your binance keys and run this, the real trades will go on..
